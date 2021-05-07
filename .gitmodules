@@ -1,0 +1,45 @@
+[submodule "frontend_precourse_work"]
+	path = frontend_precourse_work
+	url = https://github.com/Justice-Reskill/frontend_precourse_work.git
+[submodule "Bootstrap-Homework"]
+	path = Bootstrap-Homework
+	url = https://github.com/Justice-Reskill/Bootstrap-Homework.git
+[submodule "JS-Basic-HW1"]
+	path = JS-Basic-HW1
+	url = https://github.com/Justice-Reskill/JS-Basic-HW1.git
+[submodule "FrontEnd_Capstone"]
+	path = FrontEnd_Capstone
+	url = https://github.com/Justice-Reskill/FrontEnd_Capstone.git
+[submodule "technical_assessment_1"]
+	path = technical_assessment_1
+	url = https://github.com/Justice-Reskill/technical_assessment_1.git
+[submodule "HTML-Exercises"]
+	path = HTML-Exercises
+	url = https://github.com/Justice-Reskill/HTML-Exercises.git
+[submodule "https:/github.com/Justice-Reskill/localStorage_contactme.git"]
+	path = https:/github.com/Justice-Reskill/localStorage_contactme.git
+	url = https://github.com/Justice-Reskill/care_center.git
+[submodule "care_center"]
+	path = care_center
+	url = https://github.com/Justice-Reskill/care_center.git
+[submodule "css-excercse-1"]
+	path = css-excercse-1
+	url = https://github.com/Justice-Reskill/css-excercse-1.git
+[submodule "localStorage_contactme"]
+	path = localStorage_contactme
+	url = https://github.com/Justice-Reskill/localStorage_contactme.git
+[submodule "Ajax-Exercises"]
+	path = Ajax-Exercises
+	url = https://github.com/Justice-Reskill/Ajax-Exercises.git
+[submodule "intro_to_DOM_HW"]
+	path = intro_to_DOM_HW
+	url = https://github.com/Justice-Reskill/intro_to_DOM_HW.git
+[submodule "study_guide_assessment_1"]
+	path = study_guide_assessment_1
+	url = https://github.com/Justice-Reskill/study_guide_assessment_1.git
+[submodule "Callback-Exercises"]
+	path = Callback-Exercises
+	url = https://github.com/Justice-Reskill/Callback-Exercises.git
+[submodule "DOM-Excercises"]
+	path = DOM-Excercises
+	url = https://github.com/Justice-Reskill/DOM-Excercises.git
