@@ -1,0 +1,9 @@
+#home {
+    background-color: rgba(16, 106, 241, 0.973);
+    color: white;
+}
+h1 {
+    display: flex;
+    align-items: center;
+    color: blue;
+}
