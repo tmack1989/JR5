@@ -1,9 +1,17 @@
-#home {
-    background-color: rgba(16, 106, 241, 0.973);
+#home {background-color: #17a2b8;
     color: white;
 }
 h1 {
-    display: flex;
-    align-items: center;
-    color: blue;
+    color: white;
+}
+h2 {
+    color: #17a2b8;
+}
+.text-left {
+    text-align: left!important;
+    width: 40%;
+    border-left: solid #17a2b8;
+}
+.margin {
+    margin: 1em;
 }
